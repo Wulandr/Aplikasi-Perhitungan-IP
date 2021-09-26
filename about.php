@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+Wulan
 
 <head>
     <meta charset="UTF-8">
@@ -19,19 +20,19 @@
         <p class="lead">Hallo, aku Wulan dari D3 Teknik Informatika UNS</p>
         <hr class="my-4">
         <div class="card" style="width: 18rem;">
-        <img src="me.jpg" class="card-img-top" alt="me.jpg">
-        <div class="card-body">
-            <h5 class="card-title">Sharing is Caring</h5>
-            <p class="card-text"></p>
+            <img src="me.jpg" class="card-img-top" alt="me.jpg">
+            <div class="card-body">
+                <h5 class="card-title">Sharing is Caring</h5>
+                <p class="card-text"></p>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Instagram : @tri_wulandarijts</li>
+                <li class="list-group-item">Telegram : @digiroad2020</li>
+                <li class="list-group-item">Twitter : @TriWdari0161</li>
+            </ul>
         </div>
-        <ul class="list-group list-group-flush">
-            <li class="list-group-item">Instagram : @tri_wulandarijts</li>
-            <li class="list-group-item">Telegram  : @digiroad2020</li>
-            <li class="list-group-item">Twitter   : @TriWdari0161</li>
-        </ul>
     </div>
-    </div>
-    
+
 </body>
 
 </html>
